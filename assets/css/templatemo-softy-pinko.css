@@ -1004,6 +1004,7 @@ parallax & home seperator
 
 .counter .content .count-item.decoration-bottom {
   position: relative;
+  align-items: center;
 }
 
 .counter .content .count-item.decoration-bottom:after {
